@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Emicatronic/static/css/main.3ffe6279.css",
+    "main.js": "/Emicatronic/static/js/main.8c227259.js",
+    "static/js/787.083b7037.chunk.js": "/Emicatronic/static/js/787.083b7037.chunk.js",
+    "static/media/vid.mp4": "/Emicatronic/static/media/vid.e0b21166fd1891153965.mp4",
+    "static/media/test.jpg": "/Emicatronic/static/media/test.6e733e351d4d939e65f8.jpg",
+    "static/media/10.png": "/Emicatronic/static/media/10.3267afc2f513f61130f4.png",
+    "static/media/13.png": "/Emicatronic/static/media/13.64e70a5465f62e11525a.png",
+    "static/media/11.png": "/Emicatronic/static/media/11.2068e1905fcd8fa5ef53.png",
+    "static/media/5.png": "/Emicatronic/static/media/5.6af74656c89c58b85a04.png",
+    "static/media/12.png": "/Emicatronic/static/media/12.0bd5424595c085fa4f6d.png",
+    "static/media/bg.jpg": "/Emicatronic/static/media/bg.f8d6764be90bbb9a3ab2.jpg",
+    "static/media/6.png": "/Emicatronic/static/media/6.1574a78bec58bda00eb4.png",
+    "static/media/7.png": "/Emicatronic/static/media/7.7b6fa2113776e9674698.png",
+    "static/media/8.png": "/Emicatronic/static/media/8.da51f91b93e6ea35f558.png",
+    "static/media/14.png": "/Emicatronic/static/media/14.39f19d350efd89f021dc.png",
+    "static/media/4.png": "/Emicatronic/static/media/4.1c9e6a96ada5a7217185.png",
+    "static/media/9.png": "/Emicatronic/static/media/9.06f7648aa3c80da62c8e.png",
+    "static/media/logo.svg": "/Emicatronic/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Emicatronic/index.html",
+    "main.3ffe6279.css.map": "/Emicatronic/static/css/main.3ffe6279.css.map",
+    "main.8c227259.js.map": "/Emicatronic/static/js/main.8c227259.js.map",
+    "787.083b7037.chunk.js.map": "/Emicatronic/static/js/787.083b7037.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ffe6279.css",
+    "static/js/main.8c227259.js"
+  ]
+}
